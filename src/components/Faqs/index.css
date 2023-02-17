@@ -1,0 +1,20 @@
+/* Write your code here. */
+.bg {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sub-container {
+  background-color: #ffffff;
+  width: 90vw;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 20px;
+}
+.heading {
+  color: #cb8805;
+  font-family: 'Roboto';
+  text-align: center;
+}

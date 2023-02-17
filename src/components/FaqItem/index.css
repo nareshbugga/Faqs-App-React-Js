@@ -1,0 +1,24 @@
+/* Write your code here. */
+li {
+  list-style-type: none;
+  border: 2px solid #d7dae6;
+  border-radius: 10px;
+  padding: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+hr {
+  border: 2px solid #e4e7eb;
+}
+.flex-button {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  background-color: transparent;
+  border: none;
+}
+h1 {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
